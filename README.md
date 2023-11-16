@@ -1,3 +1,3 @@
 # currency-convertor
 Java currency converter
-![Example](/currency-convertor/assests/example.png "App Example")
+![Example](/assets/example.png "App Example")
